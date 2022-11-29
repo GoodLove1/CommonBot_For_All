@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TechnoMindz/CommonBot_For_All",
-    "repository": "https://github.com/TechnoMindz/CommonBot_For_All",
+    "website": "https://github.com/kofhb/CommonBot_For_All",
+    "repository": "https://github.com/kofhb/CommonBot_For_All",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -27,7 +27,7 @@
         "BOT_USERNAME": {
             "description": "enter Bot Username Without @",
             "required": true,
-            "value": "TmOfficialRobot"
+            "value": "fondness_05_bot"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
@@ -52,7 +52,7 @@
         "PICS": {
             "description": "Add some telegraph link of pictures .",
             "required": false,
-            "value": "https://telegra.ph/file/a2a1dac049b50dc7f8dfb.jpg https://telegra.ph/file/775ee57c7a7550ad611ed.jpg"
+            "value": "https://telegra.ph/file/43d787635b85c33c59f02.jpg"
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
@@ -62,7 +62,7 @@
         "SUPPORT_CHAT": {
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
             "required": false,
-            "value": "TechnoMindzChat"
+            "value": "KingofFondness"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
@@ -100,7 +100,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Telegram_files_technomindz",
+            "value": "Telegram_files_fondness",
             "required": false
         },
         "CACHE_TIME": {
