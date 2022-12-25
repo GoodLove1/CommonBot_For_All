@@ -19,6 +19,9 @@
 ## After Forking Before Deplying Change The link of your github HERE Below Shown In The Picture 👇👇👇
 <p align="center"><a href="https://t.me/Mass_movie_request"><img src="https://telegra.ph/file/7dfbf86b1da43cc40208f.jpg" width="800"></a></p>
 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/g6pMqG)
+
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
